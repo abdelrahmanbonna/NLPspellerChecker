@@ -5,7 +5,7 @@ Features:
      * Correct typos.
 
 Please Install the following before trying to run:
-       * Pyspellchecker
+       * Pyspellchecker  [https://pypi.org/project/pyspellchecker/]
        * Python 3
        * Tkinter GUI (Normaly it come with python 3)
 
